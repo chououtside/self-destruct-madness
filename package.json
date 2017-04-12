@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/chououtside/self-destruct-madness#readme",
   "dependencies": {
+    "body-parser": "1.17.1",
     "express": "4.15.2",
     "morgan": "1.8.1",
     "parser": "0.1.4"

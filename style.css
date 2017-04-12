@@ -1,0 +1,29 @@
+svg {
+  background-image: url('http://www.emula.com.br/wp-content/uploads/2011/05/trhideout-300x278.png');
+}
+
+html,
+body {
+  height: 100%;
+  color: white;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+
+  background: url('http://hd.wallpaperswide.com/thumbs/pokemon_pokeball_red-t2.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+}
