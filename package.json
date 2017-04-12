@@ -1,0 +1,24 @@
+{
+  "name": "self-destruct-madness",
+  "version": "1.0.0",
+  "description": "Simple Survival Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chououtside/self-destruct-madness.git"
+  },
+  "author": "Alex Chou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chououtside/self-destruct-madness/issues"
+  },
+  "homepage": "https://github.com/chououtside/self-destruct-madness#readme",
+  "dependencies": {
+    "express": "4.15.2",
+    "morgan": "1.8.1",
+    "parser": "0.1.4"
+  }
+}
